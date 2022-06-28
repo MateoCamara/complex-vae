@@ -1,7 +1,7 @@
 # complex-vae
-Complex-number-aware Variational Autoencoder for audio tasks
+Complex-number-aware Convolutional Variational Autoencoder for audio tasks
 
-This Variational Autoencoder uses ComplexPytorch (https://github.com/wavefrontshaping/complexPyTorch) to generate a Complex Latent Space. It follows the paradigm described in the following paper:
+This Convolutional Variational Autoencoder uses ComplexPytorch (https://github.com/wavefrontshaping/complexPyTorch) to generate a Complex Latent Space. It follows the paradigm described in Nakashika's paper:
 
 Complex-Valued Variational Autoencoder: A Novel Deep Generative Model for Direct Representation of Complex Spectra.
 T Nakashika - INTERSPEECH, 2020
